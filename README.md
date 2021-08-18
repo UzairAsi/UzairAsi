@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @UzairAsi
+- 👀 I’m interested in React js, Machine Learning & AI
+- 🌱 I’m currently learning React js
+- 💞️ I’m looking to collaborate on Single page Application projects
